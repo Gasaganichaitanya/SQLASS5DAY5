@@ -39,7 +39,7 @@ print 'record inserted & action captured in MailInfo Table'
 insert into bank.Customer(CId,CName,CEmail,Contact) values ('1000','Ramesh','Ramesh@email.com',' 9868453325')
 insert into bank.Customer(CId,CName,CEmail,Contact) values ('1002','ravi','ravi@email.com',' 6868453325')
 
-insert into bank.Customer(CId,CName,CEmail,Contact) values ('1003','sam','sam@email.com',' 8968453325')
+insert into bank.Customer(CId,CName,CEmail,Contact) values ('1003','Sushanth','Sushanth@email.com','9569852456')
 
 insert into bank.Customer(CId,CName,CEmail,Contact) values ('1004','samantha','samantha@email.com',' 6368453325')
 
